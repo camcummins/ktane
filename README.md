@@ -1,7 +1,7 @@
 # Creating Chaos: The Webpage
 
 <body>
-  <p>This is a companion webpage to <i></i>Creating Chaos: Secondary Musical Distraction in Keep Talking and Nobody Explodes (2015)</p>i>, by Cameron Cummins.</p> 
+  <p>This is a companion webpage to <i>Creating Chaos: Secondary Musical Distraction in Keep Talking and Nobody Explodes (2015)</i>, by Cameron Cummins.</p> 
 
 <h2>RMS Analysis</h2>
   <a href="Tracks_RMS">RMS over time analysis for every musical track in KTANE</a>
