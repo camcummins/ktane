@@ -1,4 +1,4 @@
-# ktane
+# Creating Chaos: The Webpage
 
 <body>
   <p>This is a companion webpage to <i></i>Creating Chaos: Secondary Musical Distraction in Keep Talking and Nobody Explodes (2015)</p>i>, by Cameron Cummins.</p> 
