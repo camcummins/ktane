@@ -14,3 +14,7 @@
 <a href="Tension_Heatmap.html">3 Different metrics as a heatmap in xQc stream clip</a>
 <br>
 </body>
+
+<h2>Pitch Analysis</h2>
+<img src="assets/SMILEYFACE_pitch.png" alt="SMILEYFACE Chromagram">
+<img src="assets/SMILEYFACE_pitch.png" alt="SQUIDKNIFE Chromagram">
