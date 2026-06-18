@@ -16,5 +16,5 @@
 </body>
 
 <h2>Pitch Analysis</h2>
-<img src="assets/SMILEYFACE_pitch.png" alt="SMILEYFACE Chromagram">
-<img src="assets/SMILEYFACE_pitch.png" alt="SQUIDKNIFE Chromagram">
+<img src="SMILEYFACE_pitch.png" alt="SMILEYFACE Chromagram"><br>
+<img src="SMILEYFACE_pitch.png" alt="SQUIDKNIFE Chromagram">
