@@ -16,5 +16,5 @@
 </body>
 
 <h2>Pitch Analysis</h2>
-<img src="SMILEYFACE_pitch.png" alt="SMILEYFACE Chromagram"><br>
-<img src="SMILEYFACE_pitch.png" alt="SQUIDKNIFE Chromagram">
+<img src="Keep Talking and Nobody Explodes OST - SMILEYFACE_Chromogram.png" alt="SMILEYFACE Chromagram"><br>
+<img src="Keep Talking and Nobody Explodes OST - SQUIDKNIFE_Chromogram.png" alt="SQUIDKNIFE Chromagram">
